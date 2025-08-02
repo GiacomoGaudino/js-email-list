@@ -20,4 +20,4 @@ function loadEmail() {
 
 loadEmail();
 
-refreshEl.addEventListener('click', () => { loadEmail() })
+refreshEl.addEventListener('click', () => loadEmail())
